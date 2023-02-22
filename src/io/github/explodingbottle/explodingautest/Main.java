@@ -25,7 +25,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		ExplodingAULib.standardProgramRoutine("EAUTest");
-		JOptionPane.showMessageDialog(null, "Hello V1.0 !", "V1.0", JOptionPane.INFORMATION_MESSAGE);
+		JOptionPane.showMessageDialog(null, "Hello V1.1 !", "V1.1", JOptionPane.INFORMATION_MESSAGE);
 	}
 
 }
